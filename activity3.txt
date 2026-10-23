@@ -1,0 +1,12 @@
+INTRODUCTION TO CI/CD - ACTIVITY 3
+
+Name: Dan Antonio Pedragorda
+GitHub Username: Nexus0326
+
+What I learned:
+1. GitHub stores project repositories online.
+2. Git tracks changes to files.
+3. Git add prepares files for committing.
+4. Git commit saves changes to Git history.
+5. Git push uploads changes to GitHub.
+6. Git pull downloads changes from GitHub.
